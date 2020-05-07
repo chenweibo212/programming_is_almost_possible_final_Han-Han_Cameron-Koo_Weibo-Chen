@@ -1,0 +1,8 @@
+public/bundle.js
+node_modules
+notinuse
+testFile
+maxpatch/*.wav
+maxpatch/*.aif
+maxpatch/*.mp3
+
