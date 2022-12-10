@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.0.20",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "ffmpeg": "0.0.4",
     "fluent-ffmpeg": "^2.1.2",
     "form-data": "^3.0.0",
